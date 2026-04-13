@@ -26,7 +26,7 @@ Assistente inteligente que traduz linguagem natural para queries SQL validadas.
 - **Destaque:** Democratiza o acesso aos dados da empresa convertendo perguntas de negócio em código pronto.
 - **Engenharia:** Uso rigoroso de Prompt Engineering (retorno em JSON limpo), blocos `try...except` para resiliência e isolamento de chaves de API com `.env`.
 
-#### 3. ⚙️ [Automação de Reuniões Corporativas (Python + API do Google)](https://github.com/Halina23/Automacao-Reunioes-Python)
+#### 3. ⚙️ [Agente de Automação de Reuniões (Python + Google Calendar API)](https://github.com/Halina23/Agente-Automacao-Reunioes)
 Agente focado em eficiência operacional e agendamento inteligente.
 - **Destaque:** O script lê uma base de contatos, interage com o Google Calendar API (OAuth2) e dispara convites personalizados por e-mail via SMTP com anexos em PDF.
 
